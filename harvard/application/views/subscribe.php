@@ -1,1 +1,0 @@
-<h3>Hurray! You are successfully subscribed to our newsletter.</h3>
